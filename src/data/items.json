@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas",
+    "price": 240,
+    "imgUrl": "/imgs/adidas.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Boys Out",
+    "price": 270,
+    "imgUrl": "/imgs/boys-out.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nice Out Girl",
+    "price": 340,
+    "imgUrl": "/imgs/nice-baby.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Night Ladys",
+    "price": 530,
+    "imgUrl": "/imgs/night-lady.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Out Girls",
+    "price": 460,
+    "imgUrl": "/imgs/out-girls.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sweet Outing",
+    "price": 390,
+    "imgUrl": "/imgs/out-sweet.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sweet Girls",
+    "price": 320,
+    "imgUrl": "/imgs/sweet-girls.jpg"
+  }
+]
