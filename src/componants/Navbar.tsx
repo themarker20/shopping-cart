@@ -5,26 +5,9 @@ import { useShoppingCart } from '../context/ShoppingCartContext'
 export function Navbar() {
   const { openCart, cartQuantity } = useShoppingCart()
   return (
-    <NavbarBs
-      sticky="top"
-      className="shadow-sm mb-3"
-      style={{ background: '#e66983' }}
-    >
+    <NavbarBs sticky="top" className="shadow-sm mb-3">
       <Container>
-        <Nav
-          className="me-auto"
-          style={{
-            display: 'flex',
-            alignItems: 'center'
-          }}
-        >
-          <Nav.Link to="/" as={NavLink}>
-            <img
-              style={{ height: '70px', width: '70px' }}
-              src="./../../public/imgs/roma-logo.png"
-              alt="hi"
-            />
-          </Nav.Link>
+        <Nav className="me-auto">
           <Nav.Link to="/" as={NavLink}>
             Home
           </Nav.Link>
